@@ -1,0 +1,23 @@
+body {
+  background: rgb(255, 207, 222);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 207, 222, 1) 0%,
+    rgba(148, 188, 233, 1) 50%,
+    rgba(255, 207, 222, 1) 100%
+  );
+}
+h1 {
+  font-family: fantasy;
+  color: brown;
+}
+h2 {
+  font-family: monospace;
+}
+h3 {
+  font-family: monospace;
+}
+p {
+  font-family: "comic sans ms", cursive, sans-serif;
+  color: purple;
+}

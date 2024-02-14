@@ -9,7 +9,7 @@ body {
 }
 
 body {
-  background-image: url("../img/space.jpg");
+  background-image: url("https://content.codecademy.com/projects/make-a-website/lesson-3/img/space.jpg");
   height: 100%;
   background-attachment: fixed;
   background-size: cover;
@@ -30,7 +30,7 @@ body {
 .logo {
   height: 80px;
   width: 80px;
-  background-image: url("../img/spaceship.png");
+  background-image: url("https://content.codecademy.com/projects/make-a-website/lesson-3/img/spaceship.png");
   background-size: contain;
   background-repeat: no-repeat;
   display: inline-block;
@@ -126,7 +126,7 @@ nav a {
 }
 @media only screen and (min-resolution:150dpi) {
   .logo {
-    background-image: url("../img/spaceship@2x.png");
+    background-image: url("https://content.codecademy.com/projects/make-a-website/lesson-3/img/spaceship@2x.png");
   }
 }
 @media only screen and (max-resolution:150dpi) and (max-width:480px) {

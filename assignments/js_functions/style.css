@@ -1,0 +1,11 @@
+.pressed {
+    background-color: cadetblue;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 1em 1em 1em 1em;
+}
+
+.change {
+    background-color: darkred;
+    padding: 1em 1em 1em 1em;
+}
